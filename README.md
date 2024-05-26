@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on getting my B.Tech degree in Computer Science.
+
 🌱 I’m currently learning Reinforcement Learning and Web Development.
+
 👯 I’m looking to collaborate on WebDev or AI/ML related projects.
+
 📫 How to reach me: email - riddhidipta2003@gmail.com.
+
 😄 Pronouns: She/Her.
 
 # 📊 GitHub Stats:
