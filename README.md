@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/html-%23239120.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -65,6 +63,14 @@ Here are some ideas to get you started:
 ![Tkinter](https://img.shields.io/badge/tkinter-%234FA1EF.svg?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23776BEE.svg?style=flat&logo=seaborn&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2343A047.svg?style=flat&logo=python&logoColor=white)
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
