@@ -38,8 +38,14 @@ Here are some ideas to get you started:
 
 ## Frameworks
 
-![Reactjs](https://img.shields.io/badge/reactjs-blue)
-
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23000000.svg?style=flat&logo=npm)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
