@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/Her.
 
-# 💻 My Tech Stack - 
+# 💻 My Tech Stack: 
 
 ## Languages
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%23414141.svg?style=flat&logo=vhdl&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23009BFF.svg?style=flat&logo=matplotlib&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23000000.svg?style=flat&logo=mathworks&logoColor=white)
 
 ## Frameworks
 
@@ -58,7 +58,13 @@ Here are some ideas to get you started:
 
 ## Python Libraries
 
-
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23009BFF.svg?style=flat&logo=matplotlib&logoColor=white)
+[Tkinter](https://img.shields.io/badge/tkinter-%234FA1EF.svg?style=flat)
+![CustomTkinter](https://img.shields.io/badge/custom_tkinter-<COLOR>.svg?style=flat)
+![Seaborn](https://img.shields.io/badge/seaborn-%23776BEE.svg?style=flat&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23009BFF.svg?style=flat&logo=matplotlib&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
