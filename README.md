@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23009BFF.svg?style=flat&logo=matplotlib&logoColor=white)
-[Tkinter](https://img.shields.io/badge/tkinter-%234FA1EF.svg?style=flat)
+![Tkinter](https://img.shields.io/badge/tkinter-%234FA1EF.svg?style=flat)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23776BEE.svg?style=flat&logo=seaborn&logoColor=white)
 
 # 📊 GitHub Stats:
