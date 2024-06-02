@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23009BFF.svg?style=flat&logo=matplotlib&logoColor=white)
 [Tkinter](https://img.shields.io/badge/tkinter-%234FA1EF.svg?style=flat)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23776BEE.svg?style=flat&logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23009BFF.svg?style=flat&logo=matplotlib&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
