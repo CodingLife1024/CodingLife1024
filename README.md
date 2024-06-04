@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 ![Tkinter](https://img.shields.io/badge/tkinter-%234FA1EF.svg?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23776BEE.svg?style=flat&logo=seaborn&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2343A047.svg?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ## Databases
 
