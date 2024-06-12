@@ -75,6 +75,12 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodingLife1024&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false" width="400" />
+<!-- GitHub Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingLife1024&theme=chartreuse-dark&hide_border=false" width="400" />
+</div>
+<!-- GitHub Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="800" />
+
