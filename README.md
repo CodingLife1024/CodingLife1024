@@ -78,10 +78,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&show_icons=true&theme=holi)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<a href="https://github.com/CodingLife1024/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CodingLife1024" />
-</a>
-<a href="https://github.com/CodingLife1024/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
