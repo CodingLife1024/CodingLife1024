@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=holi)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
