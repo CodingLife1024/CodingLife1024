@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=CodingLife1024)
+
 🔭 I’m currently working on getting my B.Tech degree in Computer Science.
 
 🌱 I’m currently learning Reinforcement Learning and Web Development.
