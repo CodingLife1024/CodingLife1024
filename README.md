@@ -58,15 +58,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics & Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&layout=compact&theme=chartreuse-dark&hide_border=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodingLife1024&theme=chartreuse-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&layout=compact&theme=chartreuse-dark&hide_border=false)
 
-🔥 **Longest streak**: 46 days  
-📆 **Current streak**: Still going strong  
-🌙 **Peak productivity hours**: Late nights, post-11 PM commits
+<details>
+  <summary>📈 My Weekly Coding Rhythm</summary>
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodingLife1024&theme=chartreuse-dark&hide_border=true)
+
+  ![Metrics](https://raw.githubusercontent.com/CodingLife1024/CodingLife1024/main/github-metrics.svg)
+</details>
 
 ---
 
@@ -79,4 +82,3 @@
 ---
 
 > “I believe in elegant code, clean circuits, and silent logs that prove everything’s working.”
-
