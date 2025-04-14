@@ -62,7 +62,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&layout=compact&theme=chartreuse-dark&hide_border=false)
-![Recent Commits](https://github.com/CodingLife1024/CodingLife1024/blob/main/github-metrics.activity.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodingLife1024&theme=github-compact)
 
 ## 📈 My Weekly Coding Rhythm</summary>
 
