@@ -66,7 +66,15 @@
 ## 📈 My Weekly Coding Rhythm</summary>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodingLife1024&theme=chartreuse-dark&hide_border=true)
-![Coding Times](https://github.com/CodingLife1024/CodingLife1024/blob/main/github-metrics.habits.charts.svg)
+
+### 🏙️ GitHub Skyline (2024)
+
+![Skyline](https://github.com/CodingLife1024/CodingLife1024/blob/main/metrics.plugin.skyline.svg)
+
+<details>
+<summary>🌆 GitHub City View (alt)</summary>
+<img src="https://github.com/CodingLife1024/CodingLife1024/blob/main/metrics.plugin.skyline.city.svg"/>
+</details>
 
 ---
 
