@@ -1,22 +1,20 @@
-name: Metrics 
+name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate GitHub Metrics with Skyline
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
+          filename: metrics.plugin.skyline.svg
+          token: ${{ secrets.METRICS_TOKEN }}  # or use token: NOT_NEEDED if no private info
           base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200  # Number of events to read
-          plugin_habits_days: 14   # Days to analyze
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
+          plugin_skyline: yes
+          plugin_skyline_year: 2024        # or 2023, etc.
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
