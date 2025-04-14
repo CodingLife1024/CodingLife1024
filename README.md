@@ -71,11 +71,6 @@
 
 ![Skyline](https://github.com/CodingLife1024/CodingLife1024/blob/main/metrics.plugin.skyline.svg)
 
-<details>
-<summary>🌆 GitHub City View (alt)</summary>
-<img src="https://github.com/CodingLife1024/CodingLife1024/blob/main/metrics.plugin.skyline.city.svg"/>
-</details>
-
 ---
 
 ## 📫 Let's Connect
