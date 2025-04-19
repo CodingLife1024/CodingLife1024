@@ -65,15 +65,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
-### 🔬 AI / ML / Data  
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/seaborn-%23776BEE.svg?style=flat&logo=python&logoColor=white)  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2343A047.svg?style=flat&logo=python&logoColor=white)
-
 ---
 
 ## 📊 GitHub Metrics & Stats
