@@ -1,17 +1,17 @@
-# 👋 Hi there, I'm Riddhi (She/Her)
+# 👋 Hey, I’m Riddhi (She/Her)
 
 🎓 Final-year CS undergrad at IIT Delhi  
-💻 System explorer | Network tinkerer | Hardware hacker | Code poet  
-📍 From low-level embedded systems to high-level protocol analysis, I like building things that *just work*—efficiently, quietly, and often with a CLI.
+💻 Systems person | Network whisperer | Hardware hacker | Code poet  
+📍 I work across the stack—from bare-metal embedded systems to protocol-level network analysis. I like building things that *just work*: efficiently, quietly, and usually with a CLI.
 
 ---
 
 ## 🚀 I Build Systems That Breathe, Sense, and Think
 
-🔧 Embedded firmware, network analysis pipelines, privacy-preserving tools  
-🌐 Web UIs with clean design and crisp logic  
-🧠 Machine learning models and ranking algorithms that actually converge  
-📊 Dashboards, sketches, and logs that tell you more than they show
+🔧 Firmware for embedded devices, network traffic analyzers, tools that care about privacy  
+🌐 Web interfaces with clean design and functional logic  
+🧠 ML models and ranking systems that actually converge  
+📊 Dashboards, sketches, and logs that show you more than they say
 
 ---
 
@@ -72,7 +72,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingLife1024&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingLife1024&layout=compact&theme=chartreuse-dark&hide_border=false)
 
-## 📈 My Weekly Coding Rhythm</summary>
+## 📈 My Weekly Coding Rhythm
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodingLife1024&theme=chartreuse-dark&hide_border=true)
 
