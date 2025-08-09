@@ -1,17 +1,18 @@
 # 👋 Hey, I’m Riddhi (She/Her)
 
-🎓 Final-year CS undergrad at IIT Delhi  
-💻 Systems person | Network whisperer | Hardware hacker | Code poet  
-📍 I work across the stack—from bare-metal embedded systems to protocol-level network analysis. I like building things that *just work*: efficiently, quietly, and usually with a CLI.
+🎓 **CS Graduate** from IIT Delhi  
+💻 Systems engineer • Network whisperer • Hardware hacker • Code poet  
+📍 I work across the stack—from bare-metal embedded systems to protocol-level network analysis.  
+I like building things that *just work*: efficiently, quietly, and usually with a CLI.
 
 ---
 
 ## 🚀 I Build Systems That Breathe, Sense, and Think
 
-🔧 Firmware for embedded devices, network traffic analyzers, tools that care about privacy  
-🌐 Web interfaces with clean design and functional logic  
+🔧 Firmware for embedded devices, network traffic analyzers, and privacy-focused tools  
+🌐 Web interfaces with clean design + functional logic  
 🧠 ML models and ranking systems that actually converge  
-📊 Dashboards, sketches, and logs that show you more than they say
+📊 Dashboards, sketches, and logs that say more than they show
 
 ---
 
@@ -84,10 +85,10 @@
 
 ## 📫 Let's Connect
 
-📬 Email: riddhidipta2003@gmail.com  
+📬 Email: **riddhidipta2003@gmail.com**  
 🐙 GitHub: [CodingLife1024](https://github.com/CodingLife1024)  
 🛠️ Alt GitHub: [ByteDynamo](https://github.com/ByteDynamo)
 
 ---
 
-> “I believe in elegant code, clean circuits, and silent logs that prove everything’s working.”
+> *I believe in elegant code, clean circuits, and silent logs that prove everything’s working.*
