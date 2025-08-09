@@ -1,18 +1,21 @@
 # 👋 Hey, I’m Riddhi (She/Her)
 
-🎓 **CS Graduate** from IIT Delhi  
+🎓 CS Graduate from **IIT Delhi**  
 💻 Systems engineer • Network whisperer • Hardware hacker • Code poet  
-📍 I work across the stack—from bare-metal embedded systems to protocol-level network analysis.  
-I like building things that *just work*: efficiently, quietly, and usually with a CLI.
+I work across the stack — from bare-metal embedded systems to protocol-level network analysis — and I have a soft spot for building things that *just work*: efficient, quiet, and usually controlled from a CLI.  
+
+Right now, I’m in my early-career chapter — applying the engineering instincts I honed at IIT Delhi to real-world problems, while still chasing the thrill of getting the *last bug* out of a stubborn system.
 
 ---
 
 ## 🚀 I Build Systems That Breathe, Sense, and Think
 
-🔧 Firmware for embedded devices, network traffic analyzers, and privacy-focused tools  
-🌐 Web interfaces with clean design + functional logic  
-🧠 ML models and ranking systems that actually converge  
-📊 Dashboards, sketches, and logs that say more than they show
+- 🔧 Firmware for embedded devices, network traffic analyzers, and privacy-focused tools  
+- 🌐 Web interfaces with clean design and functional logic  
+- 🧠 ML models and ranking systems that actually converge  
+- 📊 Dashboards, sketches, and logs that tell a story at a glance  
+
+I care about performance, reliability, and simplicity — and I’ll happily spend an extra day making sure a system doesn’t just *work*, but works **beautifully**.
 
 ---
 
@@ -83,12 +86,12 @@ I like building things that *just work*: efficiently, quietly, and usually with 
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
 📬 Email: **riddhidipta2003@gmail.com**  
 🐙 GitHub: [CodingLife1024](https://github.com/CodingLife1024)  
-🛠️ Alt GitHub: [ByteDynamo](https://github.com/ByteDynamo)
+🛠️ Alt GitHub: [ByteDynamo](https://github.com/ByteDynamo)  
 
 ---
 
-> *I believe in elegant code, clean circuits, and silent logs that prove everything’s working.*
+> *Elegant code, clean circuits, and silent logs — if it’s working, you’ll know it without me saying a word.*
