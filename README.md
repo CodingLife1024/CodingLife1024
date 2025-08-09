@@ -80,10 +80,6 @@ I care about performance, reliability, and simplicity — and I’ll happily spe
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodingLife1024&theme=chartreuse-dark&hide_border=true)
 
-### 🏙️ GitHub Skyline (2024)
-
-![Skyline](https://github.com/CodingLife1024/CodingLife1024/blob/main/metrics.plugin.skyline.svg)
-
 ---
 
 ## 📫 Let’s Connect
